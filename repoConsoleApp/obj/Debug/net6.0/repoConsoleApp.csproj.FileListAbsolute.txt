@@ -1,0 +1,15 @@
+C:\Users\Bryce\Desktop\ElevenFiftyProjects\Coding Foundations\assignments\Repository_console_app\repoConsoleApp\obj\Debug\net6.0\repoConsoleApp.csproj.AssemblyReference.cache
+C:\Users\Bryce\Desktop\ElevenFiftyProjects\Coding Foundations\assignments\Repository_console_app\repoConsoleApp\obj\Debug\net6.0\repoConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bryce\Desktop\ElevenFiftyProjects\Coding Foundations\assignments\Repository_console_app\repoConsoleApp\obj\Debug\net6.0\repoConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Bryce\Desktop\ElevenFiftyProjects\Coding Foundations\assignments\Repository_console_app\repoConsoleApp\obj\Debug\net6.0\repoConsoleApp.AssemblyInfo.cs
+C:\Users\Bryce\Desktop\ElevenFiftyProjects\Coding Foundations\assignments\Repository_console_app\repoConsoleApp\obj\Debug\net6.0\repoConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Bryce\Desktop\ElevenFiftyProjects\Coding Foundations\assignments\Repository_console_app\repoConsoleApp\bin\Debug\net6.0\repoConsoleApp.exe
+C:\Users\Bryce\Desktop\ElevenFiftyProjects\Coding Foundations\assignments\Repository_console_app\repoConsoleApp\bin\Debug\net6.0\repoConsoleApp.deps.json
+C:\Users\Bryce\Desktop\ElevenFiftyProjects\Coding Foundations\assignments\Repository_console_app\repoConsoleApp\bin\Debug\net6.0\repoConsoleApp.runtimeconfig.json
+C:\Users\Bryce\Desktop\ElevenFiftyProjects\Coding Foundations\assignments\Repository_console_app\repoConsoleApp\bin\Debug\net6.0\repoConsoleApp.dll
+C:\Users\Bryce\Desktop\ElevenFiftyProjects\Coding Foundations\assignments\Repository_console_app\repoConsoleApp\bin\Debug\net6.0\repoConsoleApp.pdb
+C:\Users\Bryce\Desktop\ElevenFiftyProjects\Coding Foundations\assignments\Repository_console_app\repoConsoleApp\obj\Debug\net6.0\repoConsoleApp.dll
+C:\Users\Bryce\Desktop\ElevenFiftyProjects\Coding Foundations\assignments\Repository_console_app\repoConsoleApp\obj\Debug\net6.0\refint\repoConsoleApp.dll
+C:\Users\Bryce\Desktop\ElevenFiftyProjects\Coding Foundations\assignments\Repository_console_app\repoConsoleApp\obj\Debug\net6.0\repoConsoleApp.pdb
+C:\Users\Bryce\Desktop\ElevenFiftyProjects\Coding Foundations\assignments\Repository_console_app\repoConsoleApp\obj\Debug\net6.0\repoConsoleApp.genruntimeconfig.cache
+C:\Users\Bryce\Desktop\ElevenFiftyProjects\Coding Foundations\assignments\Repository_console_app\repoConsoleApp\obj\Debug\net6.0\ref\repoConsoleApp.dll
