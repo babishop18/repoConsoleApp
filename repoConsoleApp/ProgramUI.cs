@@ -303,7 +303,7 @@ namespace repoConsoleApp
         public void ScheduledDels()
         {
             continueButton();
-            System.Console.WriteLine("Scheduled deliveries");
+            System.Console.WriteLine("All scheduled deliveries: \n");
             foreach (Delivery delivery in _DelRepo._deliveryList)
             {
                 if (delivery.DelStat == DelStatus.Scheduled)
@@ -317,7 +317,7 @@ namespace repoConsoleApp
         public void EnRouteDels()
         {
             continueButton();
-            System.Console.WriteLine("EnRoute deliveries");
+            System.Console.WriteLine("ALL enroute deliveries: \n");
             foreach (Delivery delivery in _DelRepo._deliveryList)
             {
                 if (delivery.DelStat == DelStatus.EnRoute)
